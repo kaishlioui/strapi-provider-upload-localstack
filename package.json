@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-localstack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A provider for strapi using localstack: fake aws services",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "kaishlioui",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "git@github.com:kaishlioui/strapi-provider-upload-localstack.git"
 }
