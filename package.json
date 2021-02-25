@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "kaishlioui",
   "license": "ISC",
-  "repository": "git@github.com:kaishlioui/strapi-provider-upload-localstack.git"
+  "repository": "git@github.com:kaishlioui/strapi-provider-upload-localstack.git",
+  "dependencies": {
+    "aws-sdk": "^2.851.0",
+    "dotenv": "^8.2.0"
+  }
 }
