@@ -1,0 +1,12 @@
+{
+  "name": "strapi-provider-upload-localstack",
+  "version": "1.0.0",
+  "description": "A provider for strapi using localstack: fake aws services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kaishlioui",
+  "license": "ISC"
+}
